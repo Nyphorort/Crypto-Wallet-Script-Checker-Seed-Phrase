@@ -1,0 +1,5 @@
+D:\GithubNew\16\Drainer\2\dd\WindowsFormsAppRemaxProject\obj\Debug\WindowsFormsAppRemaxProject.csproj.AssemblyReference.cache
+D:\GithubNew\16\Drainer\2\dd\WindowsFormsAppRemaxProject\obj\Debug\WindowsFormsAppRemaxProject.frmAdmin.resources
+D:\GithubNew\16\Drainer\2\dd\WindowsFormsAppRemaxProject\obj\Debug\WindowsFormsAppRemaxProject.Properties.Resources.resources
+D:\GithubNew\16\Drainer\2\dd\WindowsFormsAppRemaxProject\obj\Debug\WindowsFormsAppRemaxProject.csproj.GenerateResource.cache
+D:\GithubNew\16\Drainer\2\dd\WindowsFormsAppRemaxProject\obj\Debug\WindowsFormsAppRemaxProject.csproj.CoreCompileInputs.cache
